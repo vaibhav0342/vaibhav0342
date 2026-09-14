@@ -160,11 +160,11 @@ philosophy:
 
 # 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vaibhav0342/vaibhav0342/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
+<img
+  src="https://raw.githubusercontent.com/vaibhav0342/vaibhav0342/output/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
 
 ---
 
